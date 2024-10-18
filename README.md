@@ -1,7 +1,7 @@
 # Data-Cleaning-with-Postgre-SQL
 
 ## Overview :
-<p>This project focuses on cleaning and preprocessing a dataset related to layoffs. The aim is to prepare the data for analysis by addressing issues such as missing values, data type inconsistencies, and outliers. The refined dataset is suitable for exploratory data analysis (EDA) and predictive modeling.</p>
+<p>This project focuses on cleaning and preprocessing a dataset related to layoffs. The aim is to prepare the data for analysis by addressing issues such as missing values, data type inconsistencies. The refined dataset is suitable for exploratory data analysis (EDA) and predictive modeling.</p>
 
 ## Dataset Description :
 <p>The original dataset includes information about layoffs, featuring variables such as:</p>
