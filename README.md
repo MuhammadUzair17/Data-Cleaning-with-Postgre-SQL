@@ -3,7 +3,7 @@
 **Overview :**
 This project focuses on cleaning and preprocessing a dataset related to layoffs. The aim is to prepare the data for analysis by addressing issues such as missing values, data type inconsistencies, and outliers. The refined dataset is suitable for exploratory data analysis (EDA) and predictive modeling.
 
-**Dataset Description**
+**Dataset Description :**
 The original dataset includes information about layoffs, featuring variables such as:
 company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised_millions
 
