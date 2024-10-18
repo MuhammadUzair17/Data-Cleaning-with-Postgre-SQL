@@ -8,11 +8,11 @@
 <p>company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised_millions</p>
 
 ## Tools and Technologies :
-<p>**PostgreSQL :** For database management and data cleaning.</p>
+<p><strong>PostgreSQL :</strong> For database management and data cleaning.</p>
 
 ## Steps Taken :
-<p>**Data Import:** Loaded the dataset into PostgreSQL.</p>
-<p>**Data Inspection:** Evaluated the dataset for missing values and inconsistencies.</p>
+<p><strong>Data Import :</strong> Loaded the dataset into PostgreSQL.</p>
+<p><strong>Data Inspection :</strong> Evaluated the dataset for missing values and inconsistencies.</p>
 
 ## Data Cleaning :
 <p>Eliminated duplicates.</p>
